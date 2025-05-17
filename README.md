@@ -1,4 +1,4 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="Images/XBU-BR-Light.png" width="800"> <img src="Images/XBU-BR-Dark.png" width="800"> </picture> 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="Images/XBU-BR-Light.png" width="800"> <img src="Images/XBU-BR-Dark.png" width="1000"> </picture> 
 
 The Xii-Boy Ultra is a small and compact portable Wii using a vertical layout.
 This third revision offers all the latest fonctionnalities, as long as the WireFree system, which allows easily assemble and dissasemble the system without solder iron, just a screwdriver.
@@ -8,4 +8,55 @@ Everything has been approved an updated to receive the last 4LayerTechnologies P
 It also integrates a brand new analog trigger system using Nintendo Switch joysticks, the WiFi module for online game, Bluetooth to connect the original WiiMote controllers, and more!
 Check out this thread for further informations: LINK
 
-⚠️ THIS BETA REVISION MIGHT CONTAIN ISSUES, MISTAKES OR ELSE. PLEASE LET ME KNOW IF YOU FOUND SOME.⚠️
+⚠️ THIS BETA REVISION MIGHT CONTAIN ISSUES, MISTAKES OR ELSE. ⚠️
+
+# Parts
+All the needed parts are listed in the [Xii-Boy Ultra Parts list]
+Most of the parts come from Aliexpress, which might not be idea due to the recent tarrifs modifications. If you find some parts on another website, please let me know 👍
+🔋For the batteries, I personally recommend those: [Recommended XBU Batteries](https://www.akkuteile.de/samsung-inr18650-35e-3-6v-3-7v-3500mah-pluspol-flach_100631_3391)
+There is plenty of website that sell batteries. You should aquire them from a source you're confident with. If you leave in Europe, I highly recommend Akkuteile. 
+It's a German website and I always been pleased by their services.
+
+You'll also noticed that the 40 pins ribbon cable might be replaced by the [40p Shielded FFC] I designed due to the interferance issues I had with the normal one.
+
+⚠️ Be careful to buy them from a reliable source to avoid contracts. Fake batteries can be etremly dangerous. ⚠️
+
+# PCBs
+All the PCBs files are availble in the [PCB section]
+If you just want to order them, you can use the [Gerber files]. Multiple manufacters work, My preference is [JLCPCB](www.jlcpcb.com)
+You can also make edits using the [Kicad 9 files].
+
+For the components, everything is listed in the [PCB BOM File]. For the moment, there are only the Digikey links, I haven't found all the parts on Mouser yet.
+
+Ordering PCB is a pretty important step, and you shoudl really put the correct settings while ordering, otherwire you could run into issues.
+For exemple, even though ENIG cover is more epxnsive, it's absolutly nessessary for the Controller PCB. Otherwise, the buttons won't respond well, and might not work anymore after 3 months.
+
+Here is a list of every settings per board:
+### **Main PCB (XBU-001)**:
+- Impedance Control: YES
+- Impedance Control profile: JLC04161H-7628
+- Thickness: 1.6mm
+  
+### **Xii-DD (XBU-002)**:
+- Thickness: 1.2mm
+  
+### **Controller PCB (XBU-003)**:
+- Thickness: 1.6mm
+- Surface finish: ENIG
+
+### **Xii-Flex Ultra (XBU-004)**:
+- Thickness: 1.12mm (💡0.11mm also works, but it's way riskier and more fragile according to some people. I personnaly didn't notice a lot of differences.)
+- Stiffener: YES, Polyimide 0.2mm
+
+### **Trigger PCB (XBU-005)**:
+- Thickness: 1.16mm
+
+### **Xii-Strip (XBU-006)**:
+- Thickness: 0.8mm
+
+### **40p Shielded FFC (XBU-007)**:
+- Thickness: 0.12 (💡For that baord, 0.11mm also works well)
+- Stiffener: YES, Polyimide 0.2mm
+
+You can also change the color if you want, but you shouldn't change anything else if you're not sure what you're doing.
+
