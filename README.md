@@ -60,3 +60,33 @@ Here is a list of every settings per board:
 
 You can also change the color if you want, but you shouldn't change anything else if you're not sure what you're doing.
 
+# Case
+The 3D files are all available in the [3D Section].
+However, they are some differences between some files. 
+First, there are two different kind of files.
+STL are classic 3D files. They can be use for ordering, or directly 3D printing throught a slicer software. They are considered as "fabrication files" meaning they can almost not be editable.
+STEP can also be used in a slicer or to order, but it also allows making changes and edits on the shell. 
+
+On top of that, there are also two version of the top shell:
+### **FMD**:
+If you have a classic FMD 3D Printer, or planned printing the case on one, you should use the FMD version of the file.
+The main change is the screen tolerance, which isn't the same on FDM. This version only use a Friction Fit technology, and the 3D printed layers help the screen to get stuck in place.
+
+### **Resin & SLS**:
+If you planned ordering the case through [JLC3DP] or [PCBWay], or simply printing one yourself with a resin printer, you should use the [Resin & SLS] case.
+Considering the shell is much smoother here, normal Friction Fit doesn't work well, and the screen might pop off pretty easily.
+To avoid that, those versions have a Super Friction Fit technology, which mimic the FMD layers and make the screen strongly attached to the screen.
+
+# Support
+The Xii-Boy Ultra is only on a BETA revision.
+This means, there could be some mistakes somewhere.
+Troubleshooting a whole design like this is tricky, and I might have not seen all the mistakes.
+Reason why you should absolutly tell me if you notice some.
+There is also no assembly guide for the moment.
+
+To sum up, the Xii-Boy Ultra might currently be not for beginners.
+If you have soldering knowledge, and know how to assemble it without any guide, just by logical reasonning, then you can definitively make it!
+Otherwise, I suggest you to wait for the upcoming kits.
+
+Feel free to contact me if you need any informations or help about the design. Please let me know if you find any issues. It will help a lot making the project better.
+Thanks for your understanging and your support!
