@@ -23,7 +23,7 @@ You'll also noticed that the 40 pins ribbon cable might be replaced by the [40p 
 
 # PCBs
 All the PCBs files are availble in the [PCB section](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB)
-If you just want to order them, you can use the [Gerber files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/Gerbers). Multiple manufacters work, My preference is [JLCPCB](www.jlcpcb.com)
+If you just want to order them, you can use the [Gerber files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/Gerbers). Multiple manufacters work, My preference is [JLCPCB](https://jlcpcb.com/)
 You can also make edits using the [Kicad 9 files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/KiCad%209%20Files).
 
 For the components, everything is listed in the [PCB BOM File]. For the moment, there are only the Digikey links, I haven't found all the parts on Mouser yet.
@@ -69,11 +69,11 @@ First, there are two different kind of files.
 
 On top of that, there are also two version of the top shell:
 ### **FMD**:
-If you have a classic FMD 3D Printer, or planned printing the case on one, you should use the FMD version of the file.
+If you have a classic FMD 3D Printer, or planned printing the case on one, you should use the [FMD](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/FDM) version of the file.
 The main change is the screen tolerance, which isn't the same on FDM. This version only use a Friction Fit technology, and the 3D printed layers help the screen to get stuck in place.
 
 ### **Resin & SLS**:
-If you planned ordering the case through [JLC3DP] or [PCBWay], or simply printing one yourself with a resin printer, you should use the [Resin & SLS] case.
+If you planned ordering the case through [JLC3DP](https://jlc3dp.com/) or [PCBWay](https://www.pcbway.com/), or simply printing one yourself with a resin printer, you should use the [Resin & SLS case](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/Resin%20%26%20SLS).
 Considering the shell is much smoother here, normal Friction Fit doesn't work well, and the screen might pop off pretty easily.
 To avoid that, those versions have a Super Friction Fit technology, which mimic the FMD layers and make the screen strongly attached to the screen.
 
