@@ -1,17 +1,17 @@
 <picture> <source media="(prefers-color-scheme: dark)" srcset="Images/XBU-BR-Light.png" width="800"> <img src="Images/XBU-BR-Dark.png" width="1000"> </picture> 
-
+<img src="Images/Mario Sunshine.png" width="500" /> <img src="Images/Zelda-Wind-Waker.png" width="500" /> 
 The Xii-Boy Ultra is a small and compact portable Wii using a vertical layout.
 This third revision offers all the latest fonctionnalities, as long as the WireFree system, which allows easily assemble and dissasemble the system without solder iron, just a screwdriver.
 
 Everything has been approved an updated to receive the last 4LayerTechnologies PCB, including PMS2 which allows showing the battery level at any time, as long as the RVL-DD for the best video quality / compatibility possible.
 
 It also integrates a brand new analog trigger system using Nintendo Switch joysticks, the WiFi module for online game, Bluetooth to connect the original WiiMote controllers, and more!
-Check out this thread for further informations: LINK
+Check out this thread for further informations: [BITBUILT THREAD]
 
 ⚠️ THIS BETA REVISION MIGHT CONTAIN ISSUES, MISTAKES OR ELSE. ⚠️
 
 # Parts
-All the needed parts are listed in the [Xii-Boy Ultra Parts list]
+All the needed parts are listed in the [Xii-Boy Ultra Parts list](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/Parts.pdf)
 Most of the parts come from Aliexpress, which might not be idea due to the recent tarrifs modifications. If you find some parts on another website, please let me know 👍
 
 🔋For the batteries, I personally recommend those: [Recommended XBU Batteries](https://www.akkuteile.de/samsung-inr18650-35e-3-6v-3-7v-3500mah-pluspol-flach_100631_3391)
@@ -27,7 +27,7 @@ All the PCBs files are availble in the [PCB section](https://github.com/Xenii164
 If you just want to order them, you can use the [Gerber files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/Gerbers). Multiple manufacters work, My preference is [JLCPCB](https://jlcpcb.com/)
 You can also make edits using the [Kicad 9 files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/KiCad%209%20Files).
 
-For the components, everything is listed in the [PCB BOM File]. For the moment, there are only the Digikey links, I haven't found all the parts on Mouser yet.
+For the components, everything is listed in the [PCB BOM File](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB%20BOM.pdf). For the moment, there are only the Digikey links, I haven't found all the parts on Mouser yet.
 
 Ordering PCB is a pretty important step, and you shoudl really put the correct settings while ordering, otherwire you could run into issues.
 For exemple, even though ENIG cover is more epxnsive, it's absolutly nessessary for the Controller PCB. Otherwise, the buttons won't respond well, and might not work anymore after 3 months.
@@ -77,6 +77,8 @@ The main change is the screen tolerance, which isn't the same on FDM. This versi
 If you planned ordering the case through [JLC3DP](https://jlc3dp.com/) or [PCBWay](https://www.pcbway.com/), or simply printing one yourself with a resin printer, you should use the [Resin & SLS case](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/Resin%20%26%20SLS).
 Considering the shell is much smoother here, normal Friction Fit doesn't work well, and the screen might pop off pretty easily.
 To avoid that, those versions have a Super Friction Fit technology, which mimic the FMD layers and make the screen strongly attached to the screen.
+
+The 3D files are also available on my Printable account [Xii-Boy Ultra 3D parts]
 
 # Support
 The Xii-Boy Ultra is only on a BETA revision.
