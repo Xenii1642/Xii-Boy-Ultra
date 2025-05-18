@@ -17,14 +17,14 @@ Most of the parts come from Aliexpress, which might not be idea due to the recen
 There is plenty of website that sell batteries. You should aquire them from a source you're confident with. If you leave in Europe, I highly recommend Akkuteile. 
 It's a German website and I always been pleased by their services.
 
-You'll also noticed that the 40 pins ribbon cable might be replaced by the [40p Shielded FFC] I designed due to the interferance issues I had with the normal one.
+You'll also noticed that the 40 pins ribbon cable might be replaced by the [40p Shielded FFC](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Shielded%20FFC.zip) I designed due to the interferance issues I had with the normal one.
 
 ⚠️ Be careful to buy them from a reliable source to avoid contracts. Fake batteries can be etremly dangerous. ⚠️
 
 # PCBs
-All the PCBs files are availble in the [PCB section]
-If you just want to order them, you can use the [Gerber files]. Multiple manufacters work, My preference is [JLCPCB](www.jlcpcb.com)
-You can also make edits using the [Kicad 9 files].
+All the PCBs files are availble in the [PCB section](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB)
+If you just want to order them, you can use the [Gerber files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/Gerbers). Multiple manufacters work, My preference is [JLCPCB](www.jlcpcb.com)
+You can also make edits using the [Kicad 9 files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/KiCad%209%20Files).
 
 For the components, everything is listed in the [PCB BOM File]. For the moment, there are only the Digikey links, I haven't found all the parts on Mouser yet.
 
@@ -32,40 +32,40 @@ Ordering PCB is a pretty important step, and you shoudl really put the correct s
 For exemple, even though ENIG cover is more epxnsive, it's absolutly nessessary for the Controller PCB. Otherwise, the buttons won't respond well, and might not work anymore after 3 months.
 
 Here is a list of every settings per board:
-### **Main PCB (XBU-001)**:
+### [**Main PCB (XBU-001)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Main%20PCB.zip)
 - Impedance Control: YES
 - Impedance Control profile: JLC04161H-7628
 - Thickness: 1.6mm
   
-### **Xii-DD (XBU-002)**:
+### [**Xii-DD (XBU-002)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Xii-DD.zip)
 - Thickness: 1.2mm
   
-### **Controller PCB (XBU-003)**:
+### [**Controller PCB (XBU-003)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Controller%20PCB.zip)
 - Thickness: 1.6mm
 - Surface finish: ENIG
 
-### **Xii-Flex Ultra (XBU-004)**:
+### [**Xii-Flex Ultra (XBU-004)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Xii-Flex%20Ultra.zip)
 - Thickness: 1.12mm (💡0.11mm also works, but it's way riskier and more fragile according to some people. I personnaly didn't notice a lot of differences.)
 - Stiffener: YES, Polyimide 0.2mm
 
-### **Trigger PCB (XBU-005)**:
+### [**Trigger PCB (XBU-005)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Trigger%20PCB.zip)
 - Thickness: 1.16mm
 
-### **Xii-Strip (XBU-006)**:
+### [**Xii-Strip (XBU-006)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Xii-Strip.zip)
 - Thickness: 0.8mm
 
-### **40p Shielded FFC (XBU-007)**:
+### [**40p Shielded FFC (XBU-007)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Shielded%20FFC.zip)
 - Thickness: 0.12 (💡For that baord, 0.11mm also works well)
 - Stiffener: YES, Polyimide 0.2mm
 
 You can also change the color if you want, but you shouldn't change anything else if you're not sure what you're doing.
 
 # Case
-The 3D files are all available in the [3D Section].
+The 3D files are all available in the [3D Section](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D).
 However, they are some differences between some files. 
 First, there are two different kind of files.
-STL are classic 3D files. They can be use for ordering, or directly 3D printing throught a slicer software. They are considered as "fabrication files" meaning they can almost not be editable.
-STEP can also be used in a slicer or to order, but it also allows making changes and edits on the shell. 
+[STL](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL) are classic 3D files. They can be use for ordering, or directly 3D printing throught a slicer software. They are considered as "fabrication files" meaning they can almost not be editable.
+[STEP](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STEP) can also be used in a slicer or to order, but it also allows making changes and edits on the shell. 
 
 On top of that, there are also two version of the top shell:
 ### **FMD**:
