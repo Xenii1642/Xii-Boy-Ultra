@@ -13,8 +13,9 @@ Check out this thread for further informations: LINK
 # Parts
 All the needed parts are listed in the [Xii-Boy Ultra Parts list]
 Most of the parts come from Aliexpress, which might not be idea due to the recent tarrifs modifications. If you find some parts on another website, please let me know 👍
+
 🔋For the batteries, I personally recommend those: [Recommended XBU Batteries](https://www.akkuteile.de/samsung-inr18650-35e-3-6v-3-7v-3500mah-pluspol-flach_100631_3391)
-There is plenty of website that sell batteries. You should aquire them from a source you're confident with. If you leave in Europe, I highly recommend Akkuteile. 
+There is plenty of website that sell batteries. You should aquire them from a source you're confident with. If you leave in Europe, I highly recommend [Akkuteile](https://www.akkuteile.de/). 
 It's a German website and I always been pleased by their services.
 
 You'll also noticed that the 40 pins ribbon cable might be replaced by the [40p Shielded FFC](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Shielded%20FFC.zip) I designed due to the interferance issues I had with the normal one.
