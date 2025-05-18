@@ -1,5 +1,7 @@
 <picture> <source media="(prefers-color-scheme: dark)" srcset="Images/XBU-BR-Light.png" width="800"> <img src="Images/XBU-BR-Dark.png" width="1000"> </picture> 
 <img src="Images/Mario Sunshine.png" width="400" /> <img src="Images/Zelda-Wind-Waker.png" width="400" /> 
+<img src="Images/Zelda-Wind-Waker Outside.png" width="400" /> <img src="Images/Mario Galaxy.png" width="400" /> 
+
 The Xii-Boy Ultra is a small and compact portable Wii using a vertical layout.
 This third revision offers all the latest fonctionnalities, as long as the WireFree system, which allows easily assemble and dissasemble the system without solder iron, just a screwdriver.
 
