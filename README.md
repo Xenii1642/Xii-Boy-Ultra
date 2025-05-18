@@ -22,17 +22,18 @@ It's a German website and I always been pleased by their services.
 
 You'll also noticed that the 40 pins ribbon cable might be replaced by the [40p Shielded FFC](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Shielded%20FFC.zip) I designed due to the interferance issues I had with the normal one.
 
-⚠️ Be careful to buy them from a reliable source to avoid contracts. Fake batteries can be etremly dangerous. ⚠️
+⚠️ Be careful to buy them from a reliable source to avoid contracts. Fake batteries can be extremly dangerous. ⚠️
 
 # PCBs
 All the PCBs files are availble in the [PCB section](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB)
-If you just want to order them, you can use the [Gerber files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/Gerbers). Multiple manufacters work, My preference is [JLCPCB](https://jlcpcb.com/)
+If you just want to order them, you can use the [Gerber files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/Gerbers). Multiple manufacters work, but I suggest [JLCPCB](https://jlcpcb.com/) for that build.
+
 You can also make edits using the [Kicad 9 files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/PCB/KiCad%209%20Files).
 
 For the components, everything is listed in the [PCB BOM File](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB%20BOM.pdf). For the moment, there are only the Digikey links, I haven't found all the parts on Mouser yet.
 
-Ordering PCB is a pretty important step, and you shoudl really put the correct settings while ordering, otherwire you could run into issues.
-For exemple, even though ENIG cover is more epxnsive, it's absolutly nessessary for the Controller PCB. Otherwise, the buttons won't respond well, and might not work anymore after 3 months.
+Ordering PCB is a pretty important step, and you should really put the correct settings while ordering, otherwise you could run into issues.
+For example, even though ENIG cover is more expensive, it's absolutly nessessary for the Controller PCB. Otherwise, the buttons won't respond well, and might not work anymore after 3 months.
 
 Here is a list of every settings per board:
 ### [**Main PCB (XBU-001)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Main%20PCB.zip)
@@ -67,10 +68,10 @@ You can also change the color if you want, but you shouldn't change anything els
 The 3D files are all available in the [3D Section](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D).
 However, they are some differences between some files. 
 First, there are two different kind of files.
-[STL](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL) are classic 3D files. They can be use for ordering, or directly 3D printing throught a slicer software. They are considered as "fabrication files" meaning they can almost not be editable.
-[STEP](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STEP) can also be used in a slicer or to order, but it also allows making changes and edits on the shell. 
+[STL](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL) are classic 3D files. They can be use for ordering, or directly 3D printing through a slicer software. They are considered as "fabrication files" meaning they can almost not be editable.
+[STEP](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STEP) can also be used in a slicer or for ordering, but it also allows making changes and edits on the shell. 
 
-On top of that, there are also two version of the top shell:
+On top of that, there are also two versions of the top shell:
 ### **FMD**:
 If you have a classic FMD 3D Printer, or planned printing the case on one, you should use the [FMD](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/FDM) version of the file.
 The main change is the screen tolerance, which isn't the same on FDM. This version only use a Friction Fit technology, and the 3D printed layers help the screen to get stuck in place.
@@ -78,7 +79,7 @@ The main change is the screen tolerance, which isn't the same on FDM. This versi
 ### **Resin & SLS**:
 If you planned ordering the case through [JLC3DP](https://jlc3dp.com/) or [PCBWay](https://www.pcbway.com/), or simply printing one yourself with a resin printer, you should use the [Resin & SLS case](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/Resin%20%26%20SLS).
 Considering the shell is much smoother here, normal Friction Fit doesn't work well, and the screen might pop off pretty easily.
-To avoid that, those versions have a Super Friction Fit technology, which mimic the FMD layers and make the screen strongly attached to the screen.
+To avoid that, those versions have a Super Friction Fit technology, which mimic the FMD layers and make the screen strongly attached into the shell.
 
 The 3D files are also available on my Printable account [Xii-Boy Ultra 3D parts]
 
@@ -86,12 +87,15 @@ The 3D files are also available on my Printable account [Xii-Boy Ultra 3D parts]
 The Xii-Boy Ultra is only on a BETA revision.
 This means, there could be some mistakes somewhere.
 Troubleshooting a whole design like this is tricky, and I might have not seen all the mistakes.
-Reason why you should absolutly tell me if you notice some.
-There is also no assembly guide for the moment.
+Reason why you should absolutly tell me if you notice some. 
 
-To sum up, the Xii-Boy Ultra might currently be not for beginners.
-If you have soldering knowledge, and know how to assemble it without any guide, just by logical reasonning, then you can definitively make it!
-Otherwise, I suggest you to wait for the upcoming kits.
+If you think something can be improved, once again, please let me know. Those feebacks help a lot making the project better.
 
-Feel free to contact me if you need any informations or help about the design. Please let me know if you find any issues. It will help a lot making the project better.
-Thanks for your understanging and your support!
+This BETA Revision might not be for beginners considering it requires soldering knoledge and self-deduction to assemble everything together.
+For the moment, there is no assembly guide, which makes the build much trickier to make. An official guide will come soon!
+
+To sum up, if you don't have the knowledge for assembling that revision, you should probably wait for the upcoming kits, with a dedicated assembly guide.
+
+If you see anything wrong or weird on the design, or if you have any suggestion, please let me know!
+
+Have fun! 
