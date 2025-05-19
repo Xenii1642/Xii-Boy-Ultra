@@ -8,7 +8,7 @@ This third revision offers all the latest fonctionnalities, as long as the WireF
 Everything has been approved an updated to receive the last 4LayerTechnologies PCB, including PMS2 which allows showing the battery level at any time, as long as the RVL-DD for the best video quality / compatibility possible.
 
 It also integrates a brand new analog trigger system using Nintendo Switch joysticks, the WiFi module for online game, Bluetooth to connect the original WiiMote controllers, and more!
-Check out this thread for further informations: [NOT YET, SOON]
+Check out this thread for further informations: [Xii-Boy Ultra BETA Release Thread](https://bitbuilt.net/forums/index.php?threads/the-xii-boy-ultra-v3-beta-release.6918/)
 
 ⚠️ THIS BETA REVISION MIGHT CONTAIN ISSUES, MISTAKES OR ELSE. ⚠️
 
@@ -81,7 +81,7 @@ If you planned ordering the case through [JLC3DP](https://jlc3dp.com/) or [PCBWa
 Considering the shell is much smoother here, normal Friction Fit doesn't work well, and the screen might pop off pretty easily.
 To avoid that, those versions have a Super Friction Fit technology, which mimic the FMD layers and make the screen strongly attached into the shell.
 
-The 3D files are also available on my Printable account [NOT YET, SOON]
+The 3D files are also available on my Printable account [Xii-Boy Ultra 3D files - Printables](https://www.printables.com/model/1301431-xii-boy-ultra-wii-portable)
 
 # Support
 The Xii-Boy Ultra is only on a BETA revision.
