@@ -38,8 +38,8 @@ For example, even though ENIG cover is more expensive, it's absolutly nessessary
 Here is a list of every settings per board:
 ### [**Main PCB (XBU-001)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Main%20PCB.zip)
 - Material: FR4
-- Impedance Control: YES
-- Impedance Control profile: JLC04161H-7628
+- Specify Stackup: YES
+- Stackup profile: JLC04161H-7628
 - Thickness: 1.6mm
   
 ### [**Xii-DD (XBU-002)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Xii-DD.zip)
@@ -79,14 +79,14 @@ First, there are two different kind of files.
 [STEP](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STEP) can also be used in a slicer or for ordering, but it also allows making changes and edits on the shell. 
 
 On top of that, there are also two versions of the top shell:
-### **FMD**:
-If you have a classic FMD 3D Printer, or planned printing the case on one, you should use the [FMD](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/FDM) version of the file.
+### **FDM**:
+If you have a classic FDM 3D Printer, or planned printing the case on one, you should use the [FDM](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/FDM) version of the file.
 The main change is the screen tolerance, which isn't the same on FDM. This version only use a Friction Fit technology, and the 3D printed layers help the screen to get stuck in place.
 
 ### **Resin & SLS**:
 If you planned ordering the case through [JLC3DP](https://jlc3dp.com/) or [PCBWay](https://www.pcbway.com/), or simply printing one yourself with a resin printer, you should use the [Resin & SLS case](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/Resin%20%26%20SLS).
 Considering the shell is much smoother here, normal Friction Fit doesn't work well, and the screen might pop off pretty easily.
-To avoid that, those versions have a Super Friction Fit technology, which mimic the FMD layers and make the screen strongly attached into the shell.
+To avoid that, those versions have a Super Friction Fit technology, which mimic the FDM layers and make the screen strongly attached into the shell.
 
 The 3D files are also available on my Printable account [Xii-Boy Ultra 3D files - Printables](https://www.printables.com/model/1301431-xii-boy-ultra-wii-portable)
 
