@@ -52,7 +52,7 @@ Here is a list of every settings per board:
 - Surface finish: ENIG
 
 ### [**Xii-Flex Ultra (XBU-004)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Xii-Flex%20Ultra.zip)
-Material: Flex
+- Material: Flex
 - Thickness: 0.12mm (💡0.11mm also works, but it's way riskier and more fragile according to some people. I personnaly didn't notice a lot of differences.)
 - Stiffener: YES, Polyimide 0.2mm
 
