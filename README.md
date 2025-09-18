@@ -111,8 +111,8 @@ To add those features, simply drag and replace the original file in `/apps/Ninte
 
 ### [LCDDriver.bit](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/Software/LCDDriver.bit)
 This file is used to flash the DD software when booting. The original one, present by default in RVLoader contains a little issue with i2C.
-It results into random crashes and volume or brightness control interferances.
-To install it, you just have to replace the original file in the root of your µSD card.
+It results into random crashes and volume or brightness control interferances. This file also removes the whine coil noise the old DD bitstream caused.
+To install it, you just have to replace the original file in the root of your µSD card. ⚠️ This file is an early release, might contain issues ⚠️
 
 ### [hud.elf](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/Software/hud.elf)
 Like boot.dol, this file is used to add Volume and Brightness over buttons in Wii games.
