@@ -2,7 +2,7 @@
 <img src="Images/Mario Sunshine.png" width="400" /> <img src="Images/Zelda-Wind-Waker.png" width="400" /> 
 <img src="Images/Zelda Wind Waker Outside.png" width="400" /> <img src="Images/Mario-Galaxy.png" width="400" /> 
 
-The Xii-Boy Ultra is a small and compact portable Wii using a vertical layout.
+The Xii-Boy Ultra is a small and compact portable Wii using a vertical layout. I made it!!
 This third revision offers all the latest fonctionnalities, as long as the WireFree system, which allows easily assemble and dissasemble the system without solder iron, just a screwdriver.
 
 Everything has been approved an updated to receive the last 4LayerTechnologies PCB, including PMS2 which allows showing the battery level at any time, as long as the RVL-DD for the best video quality / compatibility possible.
