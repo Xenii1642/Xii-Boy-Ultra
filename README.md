@@ -32,36 +32,35 @@ Ordering PCB is a pretty important step, and you should really put the correct s
 For example, even though ENIG cover is more expensive, it's absolutly nessessary for the Controller PCB. Otherwise, the buttons won't respond well, and might not work anymore after 3 months.
 
 Here is a list of every settings per board:
-### [**Main PCB (XBU-001)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Main%20PCB.zip)
+### [**Main PCB (XBU-001)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/REV-2.0/Gerbers/Main%20PCB.zip)
 - Material: FR4
 - Specify Stackup: YES
 - Stackup profile: JLC04161H-7628
 - Thickness: 1.6mm
   
-### [**Xii-DD (XBU-002)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Xii-DD.zip)
+### [**Xii-DD (XBU-002)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/REV-2.0/Gerbers/Xii-DD.zip)
 - Material: FR4
 - Thickness: 1.2mm
   
-### [**Controller PCB (XBU-003)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Controller%20PCB.zip)
+### [**Controller PCB (XBU-003)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/REV-2.0/Gerbers/Controller%20PCB.zip)
 - Material: FR4
 - Thickness: 1.6mm
 - Surface finish: ENIG
 
-### [**Xii-Flex Ultra (XBU-004)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Xii-Flex%20Ultra.zip)
+### [**Xii-Flex Ultra (XBU-004)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/REV-2.0/Gerbers/Xii-Flex%20Ultra.zip)
 - Material: Flex
 - Thickness: 0.12mm (💡0.11mm also works, but it's way riskier and more fragile according to some people. I personnaly didn't notice a lot of differences.)
 - Stiffener: YES, Polyimide 0.2mm
 
-### [**Trigger PCB (XBU-005)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Trigger%20PCB.zip)
+### [**Trigger PCB (XBU-005)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/REV-2.0/Gerbers/Trigger%20PCB.zip)
 - Material: FR4
-- Thickness: 1.6mm
+- Thickness: 1mm
 
-### [**Xii-Strip (XBU-006)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Xii-Strip.zip)
+### [**Xii-Strip (XBU-006)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/REV-2.0/Gerbers/Xii-Strip.zip)
 - Material: FR4
 - Thickness: 0.8mm
-- Surface finish: ENIG 
 
-### [**40p Shielded FFC (XBU-007)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB/Gerbers/Shielded%20FFC.zip)
+### [**40p Shielded FFC (XBU-007)**:](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/REV-2.0/Gerbers/Shielded%20FFC.zip)
 - Material: Flex
 - Thickness: 0.12 (💡For that baord, 0.11mm also works well)
 - Stiffener: YES, Polyimide 0.2mm
