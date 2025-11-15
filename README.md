@@ -1,7 +1,7 @@
 <img src="Images/Xii_Boy_Beta_Logo_Gradient_New.png" width="800" />
 
-<img src="Images/Mario Sunshine.png" width="400" /> <img src="Images/Zelda-Wind-Waker.png" width="400" /> 
-<img src="Images/Zelda Wind Waker Outside.png" width="400" /> <img src="Images/Mario-Galaxy.png" width="400" /> 
+<img src="Images/Zelda-Wind-Waker.png" width="400" /> <img src="Images/Mario Sunshine.png" width="400" /> 
+<img src="Images/Mario-Galaxy.jpg" width="400" /> <img src="Images/Mario Kart.jpg" width="400" /> 
 
 
 The Xii-Boy Ultra is a small and compact portable Wii using a vertical layout. I made it!!
@@ -11,6 +11,8 @@ Everything has been approved an updated to receive the last 4LayerTechnologies P
 
 It also integrates a brand new analog trigger system using Nintendo Switch joysticks, the WiFi module for online game, Bluetooth to connect the original WiiMote controllers, and more!
 Check out this thread for further informations: [Xii-Boy Ultra BETA Release Thread](https://bitbuilt.net/forums/index.php?threads/the-xii-boy-ultra-v3-beta-release.6918/)
+
+<img src="Images/internals.jpg" width="800" />
 
 ⚠️ THIS BETA REVISION MIGHT CONTAIN ISSUES, MISTAKES OR ELSE. ⚠️
 
