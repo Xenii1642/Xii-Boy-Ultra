@@ -159,6 +159,13 @@ You should now see all the buttons and the analog triggers working!
 - [REV1](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/REV-1.0) - 18/5/2025 (Fixes the previous issues, first released revision)
 - [REV2](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/REV-2.0) - 16/11/2025 CURRENT (Fixes all the previous issues, removes pogo pins and upgrade a lot the reliability)
 
+# Credits
+Time to mention everybody who helped along the project!
+- The Xii-Boy Team (JamesPi, BryceShaw, and I)
+- YveltalGriffin (Help about PCB Design)
+- Aurelio (RVLoader devloppement and software help) 
+- All the Beta Testers (Modding Marius, Supertazon, YveltalGriffin, Macho Nacho, JamesPi, JoshsJunk05) 👍
+
 # Support
 Due to the early Beta Release of the Xii-Boy Ultra, the design might contain issues, design flaws or other things.
 This new REV2 corrected **all** the issues the previous revision had. But it doesn't mean it doesn't contain any. 
