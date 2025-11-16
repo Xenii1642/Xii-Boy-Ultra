@@ -106,7 +106,7 @@ Screen's friction fit doesn't have the same tolerances on FDM and SLS/SLA. Choos
 
 ### **SLS-SLA**:
 If you planned ordering the case through [JLC3DP](https://jlc3dp.com/) or [PCBWay](https://www.pcbway.com/) using Nylon (SLS or MJF) or Resin (SLA), or simply printing one yourself with a resin printer,
-you should use the [Resin & Nylon](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/REV-2.0/3D/Shell/SLS-SLA).
+you should use the [Resin & Nylon](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/REV-2.0/3D/Shell/SLS-SLA) file.
 Considering the shell is much smoother here, normal Friction Fit doesn't work well, and the screen might pop off pretty easily.
 To avoid that, those versions have a Super Friction Fit technology, which mimic the FDM layers and make the screen strongly attached into the shell.
 
