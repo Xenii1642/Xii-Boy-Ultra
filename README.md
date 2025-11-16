@@ -19,9 +19,9 @@ Everything is nicely packed up inside that little portable, 25% smaller than the
 <img src="Images/internals.jpg" width="800" />
 
 Further technical specifications can be found on the following links:
-- Xii-Boy Ultra Worklog
-- Xii-Boy Ultra Beta Release
-- Xii-Boy Ultra REV 2 Release
+- [Xii-Boy Ultra Worklog](https://bitbuilt.net/forums/threads/xii-boy-ultra-v3.6641/)
+- [Xii-Boy Ultra Beta Release](https://bitbuilt.net/forums/threads/the-xii-boy-ultra-v3-beta-release.6918/)
+- [Xii-Boy Ultra REV 2 Release](https://bitbuilt.net/forums/threads/xii-boy-ultra-rev-2.7108/#post-74825)
 
 
 I've been working on the possibility to offer kits to the community for the last 7 months. 
