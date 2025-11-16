@@ -11,7 +11,7 @@ Well, I'm here to tell that that dream came true, and I called it the Xii-Boy Ul
 
 This new Xii-Boy Ultra is the third and latest edition of my Xii-Boy design I first started almost 2 years ago. 
 It comes with all the latest features everyone has been dreaming of for years. This means many crazy mods like the RVL-DD,
-or all the cool stuff over the [4Layer Technologies](www.4layertech.com), analog triggers for full Gamecube games compatibility,
+or all the cool stuff over the [4Layer Technologies](https://4layertech.com/), analog triggers for full Gamecube games compatibility,
 optional WiFi and Bluetooth functionalities to play online or to use an original WiiMote controller and so many others. 
 Everything is nicely packed up inside that little portable, 25% smaller than the previous Gboy III. 
 
