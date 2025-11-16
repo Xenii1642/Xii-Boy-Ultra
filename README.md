@@ -53,7 +53,7 @@ Multiple manufacters work, but I suggest either [JLCPCB](https://jlcpcb.com/) or
 
 You can also make edits using the [Kicad 9 files](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/REV-2.0/KiCad%20Files).
 
-For the components, everything is listed in the [PCB BOM File](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/PCB%20BOM.pdf). 
+For the components, everything is listed in the [PCB BOM File](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/REV-2.0/PCB-BOM.pdf). 
 Some articles can only be found on Digikey, reason why all the parts of this list come from them. 
 
 Ordering PCB is one of the most important step, and you should really make sure to enable the correct settings while ordering, otherwise you could run into multiple issues.
@@ -106,7 +106,7 @@ Screen's friction fit doesn't have the same tolerances on FDM and SLS/SLA. Choos
 
 ### **SLS-SLA**:
 If you planned ordering the case through [JLC3DP](https://jlc3dp.com/) or [PCBWay](https://www.pcbway.com/) using Nylon (SLS or MJF) or Resin (SLA), or simply printing one yourself with a resin printer,
-you should use the [Resin & SLS case](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/3D/STL/Resin%20%26%20SLS).
+you should use the [Resin & Nylon](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/REV-2.0/3D/Shell/SLS-SLA).
 Considering the shell is much smoother here, normal Friction Fit doesn't work well, and the screen might pop off pretty easily.
 To avoid that, those versions have a Super Friction Fit technology, which mimic the FDM layers and make the screen strongly attached into the shell.
 
@@ -116,7 +116,7 @@ One of them has a slot for the [XiiSBar](https://github.com/Xenii1642/XiiSBar), 
 # Software
 The Xii-Boy Ultra runs on RVLoader, a wonderful homebrew app made by Aurelio over the BitBuilt forum. However, it needs to be slightly modified for all the Xii-Boy Ultra features to work properly.
 
-You'll find all the new files you need to update in the [Software](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/main/Software) section of the repository.
+You'll find all the new files you need to update in the [Software](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/REV-2.0/Software) section of the repository.
 
 ⚠️ Those files are tempoary and have been modified for the Xii-Boy Ultra only. They might contain issues or instablities. Update at your own risks. ⚠️
 ### [GCPlus2.0Update.hex](https://github.com/Xenii1642/Xii-Boy-Ultra/blob/main/Software/GCPlus2.0Update.hex)
