@@ -165,6 +165,17 @@ Time to mention everybody who helped along the project!
 - YveltalGriffin (Help about PCB Design)
 - Aurelio (RVLoader devloppement and software help) 
 - All the Beta Testers (Modding Marius, Supertazon, YveltalGriffin, Macho Nacho, JamesPi, JoshsJunk05) 👍
+  
+## License
+Matterhorn 64 CORE is released under the CERN-OHL-S-2.0 license. 
+This license allows you to:
+- Study
+- Modify
+- Manufacture
+- Sell
+- Distribute
+
+Any modified versions of derivatives must also remain open-source under **the same, unmodified license**
 
 # Support
 Due to the early Beta Release of the Xii-Boy Ultra, the design might contain issues, design flaws or other things.
