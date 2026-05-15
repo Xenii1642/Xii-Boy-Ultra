@@ -167,7 +167,7 @@ Time to mention everybody who helped along the project!
 - All the Beta Testers (Modding Marius, Supertazon, YveltalGriffin, Macho Nacho, JamesPi, JoshsJunk05) 👍
   
 ## License
-The Xii-Boy Ultra Revision 1 and 2 are released under the CERN-OHL-S-2.0 license. 
+All Xii-Boy Ultra BETA revisions are released under the CERN-OHL-S-2.0 license. 
 This license allows you to:
 - Study
 - Modify
