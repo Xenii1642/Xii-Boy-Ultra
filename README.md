@@ -166,8 +166,8 @@ Time to mention everybody who helped along the project!
 - Aurelio (RVLoader devloppement and software help) 
 - All the Beta Testers (Modding Marius, Supertazon, YveltalGriffin, Macho Nacho, JamesPi, JoshsJunk05) 👍
   
-## License
-All Xii-Boy Ultra BETA revisions are released under the CERN-OHL-S-2.0 license. 
+# License
+All Xii-Boy Ultra revisions are released under the CERN-OHL-S-2.0 license. 
 This license allows you to:
 - Study
 - Modify
