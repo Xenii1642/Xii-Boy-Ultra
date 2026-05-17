@@ -95,7 +95,7 @@ Here is a list of all the settings for each board:
 
 Color and can be changed, but make sure to only modify the settings you're confident with. 
 
-# Case
+# Shell
 The shell files are all available in the [3D Section](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/REV-2.0/3D).
 Since STL can only be ordered and not edited, I decided to only share the STEP files, which allow both editing and ordering without any issues. 
 
@@ -110,6 +110,9 @@ you should use the [Resin & Nylon](https://github.com/Xenii1642/Xii-Boy-Ultra/tr
 Considering the shell is much smoother here, normal Friction Fit doesn't work well, and the screen might pop off pretty easily.
 To avoid that, those versions have a Super Friction Fit technology, which mimic the FDM layers and make the screen strongly attached into the shell.
 
+⚠️ Disclamer: SLA + spray varnish is something to avoid, since it adds enough volume to make the parts to not fit properly. 
+
+### **Stands**
 You can also find the Xii-Boy Ultra stands in the [stands folder](https://github.com/Xenii1642/Xii-Boy-Ultra/tree/REV-2.0/3D/Stands) or on my Printables account: [Xii-Boy Ultra stands - Printables](https://www.printables.com/model/1307105-xii-boy-ultra-stands)
 One of them has a slot for the [XiiSBar](https://github.com/Xenii1642/XiiSBar), which allows you to play game with the IR pointer (original WiiMote pointing system)
 
