@@ -95692,7 +95692,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "REV 2.1 - 27/5/2026"
+	(gr_text "REV 2.2 - 20/7/2026CH"
 		(at 139.98 120.93 0)
 		(layer "F.SilkS")
 		(uuid "3379980c-4061-4a53-9454-82a60439af36")
